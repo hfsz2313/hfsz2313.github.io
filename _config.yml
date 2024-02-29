@@ -98,6 +98,9 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: next
 
+marked:
+  prependRoot: true
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
